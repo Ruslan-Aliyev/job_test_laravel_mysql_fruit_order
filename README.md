@@ -2,6 +2,8 @@ Made using XAMPP & Laravel & MySQL
 
 ![1](https://github.com/Ruslan-Aliyev/job_testjob_test_laravel_mysql_fruit_order/assets/6761422/e8c65b9a-b184-4713-b88c-3d6631f35e5b)
 
+admin@admin.com / 12345678
+
 ![2](https://github.com/Ruslan-Aliyev/job_testjob_test_laravel_mysql_fruit_order/assets/6761422/481eb5a4-3c14-4a0a-97a7-4b64e0ebf286)
 
 ![3](https://github.com/Ruslan-Aliyev/job_testjob_test_laravel_mysql_fruit_order/assets/6761422/1a62946b-6966-4dfb-9b7e-6bc0e64fa032)
